@@ -1,5 +1,4 @@
-# 👋 Hello, I'm Zeddd
-
+# 👋 Hello, I'm M
 I am an independent cybersecurity researcher focused on the intersection of network architecture, vulnerability assessment, and offensive security methodologies. My work is driven by a commitment to rigorous, structured penetration testing and defensive hardening.
 
 ---
