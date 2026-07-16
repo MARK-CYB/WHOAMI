@@ -34,6 +34,9 @@ I am currently documenting a complete, end-to-end penetration testing engagement
 
 ### 📜 Ethical Stance
 All research and testing are conducted within controlled, isolated environments. I adhere strictly to ethical hacking principles, prioritizing responsible disclosure and the advancement of security knowledge.
+### Connect with me
+- [LinkedIn](linkedin.com/in/mark-mutisya-801213261/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BXaFgJ5i2T8WSexByouv2%2BQ%3D%3D)
+- [Check out my Home Lab documentation](https://github.com/MARK-CYB/HOME-LAB)
 
 *If you would like to collaborate on security research, discuss network architecture, or share findings, please reach out via GitHub.*
 *If you would like to collaborate on security research or discuss technology, feel free to reach out.*
